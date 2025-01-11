@@ -31,8 +31,8 @@ This project is a **Daily Planner** application built using **Laravel** and a RE
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Arefeh-Amidiyan/Cloud_Computing_Project.git
-   cd daily-planner
+   git clone https://github.com/Arefeh-Amidiyan/Daily-Planner-REST-API.git
+   cd Daily-Planner-REST-API
    ```
 2. Build and start the containers:
    ```bash
