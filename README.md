@@ -10,7 +10,7 @@
 # Daily Planner REST API
 
 ## About the Project
-This project is a **Daily Planner** application built using **Laravel** and a RESTful API architecture. The application allows users to manage their daily tasks efficiently, offering CRUD operations for creating, reading, updating, and deleting tasks. The project is fully containerized using **Docker** for easier deployment and scalability.
+This project is a **Daily Planner** application built using **Laravel** and a RESTful API architecture. The application allows users to manage their daily tasks efficiently, offering CRUD operations for creating, reading, updating, and deleting tasks. The project is fully containerized using **Docker** for easier deployment and scalability. This is my Cloud Computing project in the university.
 
 ---
 
