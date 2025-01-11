@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+    container_name: laravel_app
+    volumes:
+      - .:/var/www/html
+    networks:
+      - laravel_network
+    ports:
+      - "8000:80"
+    environment:
+      - APP_ENV=local
+      - APP_DEBUG=true
+      - APP_KEY=base64:0p8RdEfkqMFSzg3fvmqiqHg1987jbBfr3VtNwq+w7Jc=
+
+networks:
+  laravel_network:
+    driver: bridge
