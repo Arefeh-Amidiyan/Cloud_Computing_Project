@@ -31,14 +31,18 @@ This project is a **Daily Planner** application built using **Laravel** and a RE
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/daily-planner.git
+   git clone https://github.com/Arefeh-Amidiyan/Cloud_Computing_Project.git
    cd daily-planner
    ```
 2. Build and start the containers:
    ```bash
    docker-compose up -d
    ```
-3. Run migrations to set up the database:
+3. Build and start the containers:
+   ```bash
+   docker-compose -f database/docker-compose.yml up -d
+   ```
+4. Run migrations to set up the database:
    ```bash
    docker exec -it app-container-name php artisan migrate
    ```
@@ -83,5 +87,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 For any inquiries or feedback, please contact:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** trinityamid@gmail.com
+- **GitHub:** [Arefeh-Amidiyan](https://github.com/Arefeh-Amidiyan)
