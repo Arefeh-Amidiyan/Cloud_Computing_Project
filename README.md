@@ -80,9 +80,26 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Screenshots
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Task+List+API" alt="Task List API Screenshot">
+  <img src="img/Picture1.png" alt="Task List Front Screenshot">
 </p>
-
+<p align="center">
+  <img src="img/Picture2.png" alt="Task List Get API Screenshot">
+</p>
+<p align="center">
+  <img src="img/Picture3.png" alt="Task List Post API Screenshot">
+</p>
+<p align="center">
+  <img src="img/Picture4.png" alt="Task List API Screenshot">
+</p>
+<p align="center">
+  <img src="img/Picture5.png" alt="Task List Put API Screenshot">
+</p>
+<p align="center">
+  <img src="img/Picture6.png" alt="Task List Delete API Screenshot">
+</p>
+<p align="center">
+  <img src="img/Picture7.png" alt="Task List Get Specific Deleted ID API Screenshot">
+</p>
 ---
 
 ## Contact
