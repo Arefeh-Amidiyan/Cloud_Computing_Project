@@ -38,7 +38,7 @@ This project is a **Daily Planner** application built using **Laravel** and a RE
    ```bash
    docker-compose up -d
    ```
-3. Build and start the containers:
+3. Build and start the database containers:
    ```bash
    docker-compose -f database/docker-compose.yml up -d
    ```
